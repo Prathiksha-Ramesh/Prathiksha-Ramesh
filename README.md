@@ -1,46 +1,47 @@
-<h1 align="center">Hi, I'm Prathiksha Ramesh</h1>
-<h3 align="center">Bioinformatics and Computational Biology Researcher</h3>
+# Hi, I'm Prathiksha Ramesh 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramesh-prathiksha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rprathiksha35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+**Computational Biology · Bioinformatics · ML/DL/AI for Biology**
+
+I work at the intersection of machine learning and molecular biology — applying deep learning and statistical methods to single-cell genomics, transcriptomics, and disease modeling. I'm currently building toward a PhD, with a focus on developing computational methods that turn large-scale biological data into biological insight.
 
 ---
 
-### 🧬 About Me
+### 🔬 Research Interests
 
-I work on problems at the intersection of biology and data — mostly single-cell RNA-seq analysis, benchmarking computational methods, and exploring how foundation models like scGPT can be applied to genomics data. I like digging into messy biological datasets and figuring out what the numbers are actually trying to tell us.
-
-🤝 Open to research collaboration.
-
----
-
-### 🛠️ Tools I Work With
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scanpy-3C3C3C?style=flat&logo=scanpy&logoColor=white" />
-</p>
+- Single-cell RNA-seq analysis (QC, imputation, cell-type annotation, differential expression)
+- Foundation models for single-cell biology (e.g., scGPT) and their downstream applications
+- Benchmarking computational methods for robustness and reproducibility in genomics
+- Applying ML/DL to disease-associated transcriptomic data (e.g., COVID-19, cardiovascular disease)
 
 ---
 
-### 🔬 Projects I've Worked On
+### 🧬 Featured Projects
 
-#### 🫀 [Benchmarking Imputation Methods in Single-cell RNA-Seq of PBMCs from Acute Myocardial Infarction](https://github.com/Prathiksha-Ramesh/Benchmarking-Imputation-Methods-in-Single-cell-RNA-Seq-of-PBMCs-from-Acute-Myocardial-Infarction)
-Comparing how different imputation methods perform on single-cell RNA-seq data from PBMC samples in acute myocardial infarction patients.
+**[Benchmarking Imputation Methods in Single-cell RNA-Seq of PBMCs from Acute Myocardial Infarction](https://github.com/Prathiksha-Ramesh/Benchmarking-Imputation-Methods-in-Single-cell-RNA-Seq-of-PBMCs-from-Acute-Myocardial-Infarction)**
+Systematic evaluation of imputation methods on single-cell RNA-seq data from acute myocardial infarction patients, comparing performance and impact on downstream analysis.
 
-#### 🫁 [Single-cell Lung Atlas — COVID-19](https://github.com/Prathiksha-Ramesh/single-cell-lung-atlas-covid19)
-Single-cell transcriptomic analysis of lethal COVID-19 lung tissue, covering QC, cell type annotation, and differential expression analysis.
+**[Single-Cell Lung Atlas – COVID-19](https://github.com/Prathiksha-Ramesh/single-cell-lung-atlas-covid19)**
+End-to-end single-cell transcriptomic analysis of lethal COVID-19 lung tissue — quality control, cell-type annotation, and differential expression analysis to characterize disease-associated cell states.
 
-#### 🧠 [scGPT Zero-Shot Reference Mapping](https://github.com/Prathiksha-Ramesh/scGPT-ZeroShot-Reference-Mapping)
-Reproducing and analyzing zero-shot reference mapping using the scGPT foundation model on single-cell RNA-seq data.
+**[scGPT Zero-Shot Reference Mapping](https://github.com/Prathiksha-Ramesh/scGPT-ZeroShot-Reference-Mapping)**
+Reproducing and analyzing zero-shot reference mapping using the scGPT single-cell foundation model, exploring how large pretrained models generalize to new single-cell RNA-seq datasets without fine-tuning.
+
+**[Benchmarking Imputation Methods](https://github.com/Prathiksha-Ramesh/Benchmarking_imputation_methods)**
+Companion benchmarking work comparing imputation strategies across single-cell datasets.
 
 ---
 
-### 📬 Let's Connect
+### 🛠️ Tools & Technologies
 
-If you're working on something in computational biology or single-cell genomics and want to collaborate, reach out via [email](mailto:rprathiksha35@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramesh-prathiksha).
+`Python` `R` `PyTorch` `Scanpy` `Jupyter` `scikit-learn` `pandas` `NumPy` · Single-cell RNA-seq pipelines · Statistical modeling & regression analysis
+
+---
+
+### 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-prathiksha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rprathiksha35@gmail.com)
+
+*Open to PhD, research, and collaboration opportunities in computational biology and ML for genomics.*
+hing in computational biology or single-cell genomics and want to collaborate, reach out via [email](mailto:rprathiksha35@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramesh-prathiksha).
 
