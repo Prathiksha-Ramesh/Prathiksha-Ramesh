@@ -1,17 +1,18 @@
 # Hi, I'm Prathiksha Ramesh 👋
 
-**Computational Biology · Bioinformatics · ML/DL/AI for Biology**
+**Computational Biology · Bioinformatics · ML/DL for Omics Data Analysis**
 
-I work at the intersection of machine learning and molecular biology — applying deep learning and statistical methods to single-cell genomics, transcriptomics, and disease modeling. I'm currently building toward a PhD, with a focus on developing computational methods that turn large-scale biological data into biological insight.
+I work at the intersection of machine learning and molecular biology — applying deep learning and statistical methods to omics data analysis, with a focus on single-cell transcriptomics and disease modeling. I'm currently building toward a PhD, with a focus on developing computational methods that turn large-scale biological data into biological insight.
 
 ---
 
 ### 🔬 Research Interests
 
+- ML/DL methods for omics data analysis, with a focus on single-cell transcriptomics
 - Single-cell RNA-seq analysis (QC, imputation, cell-type annotation, differential expression)
 - Foundation models for single-cell biology (e.g., scGPT) and their downstream applications
-- Benchmarking computational methods for robustness and reproducibility in genomics
-- Applying ML/DL to disease-associated transcriptomic data (e.g., COVID-19, cardiovascular disease)
+- Benchmarking computational methods for robustness and reproducibility in omics pipelines
+- Applying ML/DL to disease-associated omics data (e.g., COVID-19, cardiovascular disease)
 
 ---
 
