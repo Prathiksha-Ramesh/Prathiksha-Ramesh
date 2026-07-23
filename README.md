@@ -33,7 +33,17 @@ Companion benchmarking work comparing imputation strategies across single-cell d
 
 ### 🛠️ Tools & Technologies
 
-`Python` `R` `PyTorch` `Scanpy` `Jupyter` `scikit-learn` `pandas` `NumPy` · Single-cell RNA-seq pipelines · Statistical modeling & regression analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scanpy](https://img.shields.io/badge/Scanpy-1B9E77?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![Single-Cell Foundation Models](https://img.shields.io/badge/Single--Cell%20Foundation%20Models-2E8B57?style=for-the-badge)
 
 ---
 
@@ -43,5 +53,3 @@ Companion benchmarking work comparing imputation strategies across single-cell d
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rprathiksha35@gmail.com)
 
 *Open to research, and collaboration opportunities in computational biology and ML for genomics.*
-reach out via [email](mailto:rprathiksha35@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramesh-prathiksha).
-
