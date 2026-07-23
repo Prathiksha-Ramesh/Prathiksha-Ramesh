@@ -42,6 +42,6 @@ Companion benchmarking work comparing imputation strategies across single-cell d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramesh-prathiksha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rprathiksha35@gmail.com)
 
-*Open to PhD, research, and collaboration opportunities in computational biology and ML for genomics.*
-hing in computational biology or single-cell genomics and want to collaborate, reach out via [email](mailto:rprathiksha35@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramesh-prathiksha).
+*Open to research, and collaboration opportunities in computational biology and ML for genomics.*
+reach out via [email](mailto:rprathiksha35@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramesh-prathiksha).
 
