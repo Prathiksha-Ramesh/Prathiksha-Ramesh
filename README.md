@@ -2,7 +2,7 @@
 
 **Computational Biology · Bioinformatics · ML/DL for Omics Data Analysis**
 
-I work at the intersection of machine learning and molecular biology — applying deep learning and statistical methods to omics data analysis, with a focus on single-cell transcriptomics and disease modeling. I'm currently building toward a PhD, with a focus on developing computational methods that turn large-scale biological data into biological insight.
+I sit at the intersection of data science and biology, using statistical learning and deep learning to make sense of large-scale omics data — particularly single-cell transcriptomics. My interest lies in how computational methods can uncover biological signal in complex datasets, from cell states to disease mechanisms.
 
 ---
 
