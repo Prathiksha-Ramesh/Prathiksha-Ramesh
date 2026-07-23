@@ -2,9 +2,9 @@
 
 **Computational Biology · Bioinformatics · ML/DL for Omics Data Analysis**
 
-I sit at the intersection of data science and biology, using statistical learning and deep learning to make sense of large-scale omics data — particularly single-cell transcriptomics. My interest lies in how computational methods can uncover biological signal in complex datasets, from cell states to disease mechanisms.
+I sit at the intersection of data science and biology, using statistical learning and deep learning to make sense of large-scale omics data particularly single-cell transcriptomics. My interest lies in how computational methods can uncover biological signal in complex datasets, from cell states to disease mechanisms.
 
----
+
 
 ### 🔬 Research Interests
 
@@ -14,7 +14,7 @@ I sit at the intersection of data science and biology, using statistical learnin
 - Benchmarking computational methods for robustness and reproducibility in omics pipelines
 - Applying ML/DL to disease-associated omics data (e.g., COVID-19, cardiovascular disease)
 
----
+
 
 ### 🧬 Featured Projects
 
@@ -30,7 +30,7 @@ Reproducing and analyzing zero-shot reference mapping using the scGPT single-cel
 **[Benchmarking Imputation Methods](https://github.com/Prathiksha-Ramesh/Benchmarking_imputation_methods)**
 Companion benchmarking work comparing imputation strategies across single-cell datasets.
 
----
+
 
 ### 🛠️ Tools & Technologies
 
@@ -46,7 +46,7 @@ Companion benchmarking work comparing imputation strategies across single-cell d
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![Single-Cell Foundation Models](https://img.shields.io/badge/Single--Cell%20Foundation%20Models-2E8B57?style=for-the-badge)
 
----
+
 
 ### 📫 Get in Touch
 
@@ -54,3 +54,4 @@ Companion benchmarking work comparing imputation strategies across single-cell d
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rprathiksha35@gmail.com)
 
 *Open to research, and collaboration opportunities in computational biology and ML for genomics.*
+
