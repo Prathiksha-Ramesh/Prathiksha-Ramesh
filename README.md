@@ -2,7 +2,7 @@
 
 **Computational Biology · Bioinformatics · ML/DL for Omics Data Analysis**
 
-I sit at the intersection of data science and biology, using statistical learning and deep learning to make sense of large-scale omics data particularly single-cell transcriptomics. My interest lies in how computational methods can uncover biological signal in complex datasets, from cell states to disease mechanisms.
+I sit at the intersection of data science and biology, using machine learning and deep learning to make sense of large-scale omics data particularly single-cell transcriptomics. My interest lies in how computational methods can uncover biological signal in complex datasets, from cell states to disease mechanisms.
 
 
 
